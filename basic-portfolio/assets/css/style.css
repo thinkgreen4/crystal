@@ -1,0 +1,85 @@
+/* CSS style sheet nav bar */
+
+
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: lightgray;
+    
+    margin: 0; 
+    padding: 0; 
+     
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+     
+}
+
+/* input box */
+
+#inputbox {
+    width: 65%;
+    height: 300px;
+}
+
+/* Header */
+ header {
+     font-size: 60px;
+     background-color:dimgray;
+     height: 25%;
+     width: 25%;
+     color: white;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+     
+ }
+ hr {
+     color: lightsalmon;
+     size: 20px;
+     width: 100%;
+    display: block;
+    margin-top: 0.5em;
+     margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+     border-width: 5px;
+    
+ }
+.contact {
+    font-size: 40px;
+    color: darkorange;
+    height: 25%;
+    width: 25%;
+
+}
+
+
+
+.about {
+ 
+    word-wrap: break-word;
+    font-size: 40px;
+    
+}
+
+section {
+    width: 70%;
+    height: 60%;
+    background-color: lightgoldenrodyellow;
+    font-size:24px;
+}
+
+footer {
+    width: 100%;
+    height: 15%;
+    background-color: darkgray;
+    font-size: 24px;
+
+}
+.copyright {
+    text-align: center;
+    color: darkred;
+}
